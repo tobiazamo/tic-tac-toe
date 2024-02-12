@@ -17,7 +17,6 @@ These instructions will guide you through getting a copy of the project up and r
 You'll need Node.js and npm (Node Package Manager) installed on your computer to run this project.
 
 ### Installation
-### Installing
 
 Follow these steps to get your development environment running:
 
@@ -29,7 +28,7 @@ git clone https://github.com/tobiazamo/tic-tac-toe.git
 
 3. Navigate to the project directory:
 ```
-cd investment-calculator
+cd tic-tac-toe
 ```
 
 4. Install the necessary packages:
