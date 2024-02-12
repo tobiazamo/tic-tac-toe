@@ -15,3 +15,31 @@ These instructions will guide you through getting a copy of the project up and r
 ### Prerequisites
 
 You'll need Node.js and npm (Node Package Manager) installed on your computer to run this project.
+
+### Installation
+### Installing
+
+Follow these steps to get your development environment running:
+
+1. Clone the repository to your local machine:
+```
+git clone https://github.com/tobiazamo/tic-tac-toe.git
+```
+
+
+3. Navigate to the project directory:
+```
+cd investment-calculator
+```
+
+4. Install the necessary packages:
+```
+npm install
+```
+
+5. Start the development server:
+```
+npm run dev
+```
+
+6. Open your browser in localhost to view the app.
